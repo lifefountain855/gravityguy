@@ -7,7 +7,7 @@ You earn a point for every five seconds you survive, and the obstacles speed
 up as your score grows. The high score is kept only until the Arduino resets
 or loses power.
 
-This is only a first version. It is a simple prototype, so the game and
+**This is only a first version**. It is a simple prototype, so the game and
 hardware setup may change, and it has not been polished into a finished
 product.
 
